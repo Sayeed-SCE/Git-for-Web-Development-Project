@@ -28,7 +28,7 @@ The git pull command is used to fetch and download content from a remote reposit
 
 7.Merge conflicts occur when competing changes are made to the same line of a file, or when one person edits a file and another person deletes the same file.
 
-8. The easiest way to resolve a conflicted file is to open it and make any necessary changes.After editing the file, we can use the git add a command to stage the new merged content.The final step is to create a new commit with the help of the git commit command.
+8. The easiest way to resolve a conflicted file is to open it and make any necessary changes.After editing the file, we can use the git add a command to stage the new merged content.The final step is to create a new commit with the help of the git commit.
 
 
 
